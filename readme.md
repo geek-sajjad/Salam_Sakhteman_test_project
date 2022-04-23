@@ -1,14 +1,14 @@
-#REST API using express.js and mongodb
+# REST API using express.js and mongodb
 
-##How to install and run project
-###create .env file
-####add mongodb databse url to .env file
-####add strong secret key string for JWT tokens
+## How to install and run project
+### create .env file
+#### add mongodb databse url to .env file
+#### add strong secret key string for JWT tokens
 ```
 DATABASE_URL={DATABASE_URL_HERE}
 JWT_TOKEN={SECRET_KEY}
 ```
-###Run npm install and start
+### Run npm install and start
 ```
 npm install
 ```
@@ -17,7 +17,7 @@ npm start
 ```
 
 
-###API Endpoints
+### API Endpoints
                     
 URL  | Method | Action
 ------------- | ------------- | -------------
